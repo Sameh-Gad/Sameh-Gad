@@ -1,48 +1,43 @@
-<h1 align="left">Sameh Gad</h1>
-<h3 align="left">Frontend Developer</h3>
+<h1 align="center">👋 Hey, I'm Sameh Gad</h1>
+<h3 align="center">Frontend Developer | Passionate About Web Technologies</h3>
 
-<p align="left">
+---
+
+<p align="center">
   <a href="https://github.com/SamehGad">
-    <img src="https://komarev.com/ghpvc/?username=SamehGad" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SamehGad&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/sameh-gad-704527251">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sameh%20Gad-blue?logo=linkedin&style=for-the-badge">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎯 I’m a **Frontend Developer** actively seeking opportunities.  
-- ✅ Completed training in **HTML, CSS, JavaScript, and C++**.  
-- 🚀 Passionate about building clean, responsive, and user-friendly web applications.  
+### 🚀 About Me
+- 🎯 Frontend Developer actively seeking new opportunities.  
+- 💡 Skilled in **HTML, CSS, JavaScript, and C++**.  
+- 🌱 Constantly learning and improving my web development skills.  
+- 🤝 Open to collaborations and exciting projects.  
 
 ---
 
 ### 🛠️ Tech Stack
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+</p>
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Sameh Gad](https://www.linkedin.com/in/sameh-gad-704527251)  
-- GitHub: [SamehGad](https://github.com/SamehGad)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameh-gad-704527251">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SamehGad">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
